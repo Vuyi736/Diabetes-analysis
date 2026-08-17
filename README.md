@@ -1,13 +1,13 @@
 # DIABETES ANALYSIS
 Analysis of real DM data across 130 US hospitals for years 1999-2008.
 
-## PROJECT OVERVIEW
+### PROJECT OVERVIEW
 The goal of this project is to investigate care of Diabetes patients across 130 hospitals in order to identify patterns in demographics (race, gender, age), quality of care (length of stay, readmission rates, emergencies) and outcomes for the purpose of specializing and improving care, which will also improve outcomes,
 
-## EXECUTIVE SUMMARY
+### EXECUTIVE SUMMARY
 Across 130 hospitals, 9 years' worth of data, a total of 72K patients was cared for. 102K encounters were recorded with an average length of stay (ALOS) of 4.40 days which is within the industry benchmark. A total of 20K emergencies was recorded with 55% being admitted as emergencies. Females constitute more than 50% of the patients that were seen, followed by Males. Caucasians had the most incidences (75%), followed by African Americans(18%) with Asians(1.4%) having the lowest number, suggesting cultural or genetic differences. The age-group most affected is the (70-80) bracket, but, the age group that presented as emergencies was the (50-60) bracket. Readmission rate in less than <30 days after discharge was 13.19$ which is within the benchmark (14-22%). The mortality rate stood at 2.30% which is slightly above the benchmark (<2%).
 
- ## KEY METRICS ANALYZED
+ ### KEY METRICS ANALYZED
  - Demographics
    - Race, gender, age
  - Total number of emergencies
@@ -17,7 +17,7 @@ Across 130 hospitals, 9 years' worth of data, a total of 72K patients was cared 
  - Readmission rate
  - Mortality rate
    
-## RESULTS and INSIGHTS
+### RESULTS and INSIGHTS
 1. Demographics were as follows:
   - Caucasians constituted 75% of patients, African Americans were 18%, Hispanics at 2.8% and Asians at 1.4%
   - Females constituted 52% while Males came in second at 48%. Similar margins were consistent across races except Asians where Males were more affected than Females.  
@@ -42,7 +42,7 @@ Across 130 hospitals, 9 years' worth of data, a total of 72K patients was cared 
 
 3. Caucasians had more than 50% of the total emergencies because a large number were admitted as emergencies and more than 50% also did not have HbA1C results.
 
-## RECOMMENDATIONS
+### RECOMMENDATIONS
 1. To improve Patient outcomes
    - Ensure to check glycemic control after a period of drug administration. Then later change the regimen according to the results.
    - Investigate further why the males have worse outcomes than their counterparts, could it be problems with taking medications on time or correctly? Do they have family to monitor them?
@@ -53,18 +53,18 @@ Across 130 hospitals, 9 years' worth of data, a total of 72K patients was cared 
    - Add the years column so that we can investigate from the year point of view. Perhaps the HbA1C test was expensive at the time?
    -  A significant portion of data (weight, race, specialty, etc.) was missing, thus, it could not be established whether they had direct effects on the outcomes and the quality of care. This could be due to data entry errors or data loss. I suggest that training be conducted to improve data quality being entered into the EHR system.
 
-## TOOLS USED
+### TOOLS USED
 1. Microsoft Excel for initial walkthrough and standardization.
 2. Microsoft Power BI for data modelling, Analysis and Visualization.
 
-## LIMITATIONs
+### LIMITATIONs
 - The data did not have timestamps so I could not perform time series analysis.
 
-## REFERENCES
+### REFERENCES
 1. Strack, B., Deshazo, J.P., Gennings C., Olmo, J.C., Ventura, S., Cios, K. J. & Clore, J.N. (2014). Impact of HBA1C measurement on hospital readmission rates. Analysis of 70000 clinical database patient records. _Biomed Research International_.Vol2014. Article ID 781670. Retrieved from https://archive.ics.uci.edu/dataset/296/diabetes+130-US+hospitals+for+years+1999-2008.
 2. Insightsoftware. (2025). Top 26 healthcare KPIs and quality metric examples for 2026 Reporting._Insightsoftware_. Accessed at Insightsoftware.com 
 
-## DASHBOARD
+### DASHBOARD
 
 
 
