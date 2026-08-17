@@ -22,7 +22,9 @@ Across 130 hospitals, 9 years' worth of data, a total of 72K patients was cared 
   - Caucasians constituted 75% of patients, African Americans were 18%, Hispanics at 2.8% and Asians at 1.4%
   - Females constituted 52% while Males came in second at 48%. Similar margins were consistent across races except Asians; where Males were more affected than Females.  
   - The (70-80) age bracket had the most patients (25%) but the (50-60) bracket came in as emergencies the most (5.3%)
- 
+
+ <img width="1320" height="739" alt="Demographics-dm" src="https://github.com/user-attachments/assets/5bf25c79-19fc-47c1-875a-1e12073e66c7" />
+
 2. Totals were as follows:
    - Encounters were 102K
    - Total patients 72k
@@ -30,6 +32,9 @@ Across 130 hospitals, 9 years' worth of data, a total of 72K patients was cared 
    - Mortality rate 2.30. This is .30 more higher than the ideal which is <2%.
    - Average length of Stay is 4.40 days which is falls within the benchmark of not keeping patients longer than 7 days
    - Readmission rate (<30 days) was 13.19% which is also within the industry benchmark.
+  
+ <img width="1216" height="741" alt="QOC-dm" src="https://github.com/user-attachments/assets/469817d9-3dfa-4af7-93cb-8288b6c0bafd" />
+
      
  The readmission rate was disaggregated against ALOS, number of lab procedures, number of medications, change in dosing, medical specialty and Glycemic control (HbA1C results). These were the results;
   - The longer the stay, the higher the chances of readmission.
@@ -41,6 +46,9 @@ Across 130 hospitals, 9 years' worth of data, a total of 72K patients was cared 
   - The male gender had the most mortalities, while the female gender had the most readmissions. The African Americans had a higher mortality rate than other races. This can be attributed to a longer stay in hospital and the fact that more than 50% did not have HbA1C results.
 
 3. Caucasians had more than 50% of the total emergencies because a large number were admitted as emergencies and more than 50% also did not have HbA1C results.
+
+<img width="1171" height="725" alt="Outcomes-dm" src="https://github.com/user-attachments/assets/2e07092b-156f-47f1-a873-c70a60ec2063" />
+
 
 ### RECOMMENDATIONS
 1. To improve Patient outcomes
@@ -66,6 +74,9 @@ Across 130 hospitals, 9 years' worth of data, a total of 72K patients was cared 
 2. Insightsoftware. (2025). Top 26 healthcare KPIs and quality metric examples for 2026 Reporting._Insightsoftware_. Accessed at Insightsoftware.com 
 
 ### DASHBOARD
+<img width="1206" height="772" alt="DM Dashboard" src="https://github.com/user-attachments/assets/61c6f242-c164-4e02-aaf2-ee4bd11328bc" />
+
+
 
 
 
