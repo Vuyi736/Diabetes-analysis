@@ -54,7 +54,7 @@ Across 130 hospitals, 9 years' worth of data, a total of 72K patients was cared 
 1. To improve Patient outcomes
    - Ensure to check glycemic control after a period of drug administration. Then later change the regimen according to the results.
    - Investigate further why the males have worse outcomes than their counterparts, could it be problems with taking medications on time or correctly? Do they have family to monitor them?
-   - Investigate further why African American stay longer in the hospital. Could it be that they wait longer to be seen by health professional?
+   - Investigate further why African Americans stay longer in the hospital. Could it be that they wait longer to be seen by health professional?
 
 2. To improve data quality
    - Add timestamp between arriving and being seen by a health professional (waiting time) so that we can investigate from the time angle.
@@ -65,7 +65,7 @@ Across 130 hospitals, 9 years' worth of data, a total of 72K patients was cared 
 1. Microsoft Excel for initial walkthrough and standardization.
 2. Microsoft Power BI for data modelling, Analysis and Visualization.
 
-### LIMITATIONs
+### LIMITATIONS
 - The data did not have timestamps so I could not perform time series analysis.
 
 ### REFERENCES
