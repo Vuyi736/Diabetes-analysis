@@ -67,6 +67,7 @@ Across 130 hospitals, 9 years' worth of data, a total of 72K patients was cared 
 
 ### LIMITATIONS
 - The data did not have timestamps so I could not perform time series analysis.
+- The missing data that is appearing as "?" was too significant to delete or input with other values, thus, it was just left as a category on its own.
 
 ### REFERENCES
 1. Strack, B., Deshazo, J.P., Gennings C., Olmo, J.C., Ventura, S., Cios, K. J. & Clore, J.N. (2014). Impact of HBA1C measurement on hospital readmission rates. Analysis of 70000 clinical database patient records. _Biomed Research International_.Vol2014. Article ID 781670. Retrieved from https://archive.ics.uci.edu/dataset/296/diabetes+130-US+hospitals+for+years+1999-2008.
